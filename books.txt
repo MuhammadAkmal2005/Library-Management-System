@@ -1,0 +1,82 @@
+1,The Sealed Nectar,Safi-ur-Rahman al-Mubarakpuri,1996
+2,Physics for Scientists and Engineers,Raymond A. Serway,2018
+3,Calculus,James Stewart,2015
+4,Peer-e-Kamil,Umera Ahmed,2004
+5,The Holy Quran,Translation by Abdullah Yusuf Ali,1934
+6,University Physics,Hugh D. Young,2019
+7,Advanced Engineering Mathematics,Erwin Kreyszig,2010
+8,Iman Umeed Aur Mohabbat,Umera Ahmed,2007
+9,Sahih Bukhari,Imam Bukhari,846
+10,Concepts of Physics,H. C. Verma,2006
+11,Discrete Mathematics and Its Applications,Kenneth H. Rosen,2011
+12,Jannat Kay Pattay,Nimra Ahmed,2012
+13,Riyad-us-Saliheen,Imam Nawawi,1254
+14,Fundamentals of Physics,David Halliday,2013
+15,Elementary Number Theory,David M. Burton,2018
+16,Namal,Nimra Ahmed,2014
+17,Al-Kitab al-Muqaddas,Various Scholars,650
+18,Modern Physics,Paul A. Tipler,2012
+19,Linear Algebra and Its Applications,Gilbert Strang,2016
+20,Mushaf,Nimra Ahmed,2011
+21,Seerat-un-Nabi,Ibn Hisham,833
+22,Introduction to Electrodynamics,David J. Griffiths,2017
+23,Abstract Algebra,David S. Dummit,2014
+24,Haalim,Nimra Ahmed,2017
+25,Stories of the Prophets,Ibn Kathir,1372
+26,Classical Mechanics,John R. Taylor,2005
+27,Probability and Statistics for Engineers and Scientists,Ronald E. Walpole,2017
+28,Beli Rajputan Ki Malika,Naseem Hijazi,1970
+29,Forty Hadith,Imam Nawawi,1277
+30,Introduction to Quantum Mechanics,David J. Griffiths,2019
+31,Mathematical Methods for Physics and Engineering,K.F. Riley,2006
+32,Dastan Iman Faroshon Ki,Naseem Hijazi,1960
+33,Al-Ghazali’s Ihya Ulum al-Din,Al-Ghazali,1111
+34,Thermodynamics and Statistical Mechanics,Greiner,2013
+35,Topology,James Munkres,2014
+36,Aakhri Chatan,Naseem Hijazi,1950
+37,Fatawa-e-Alamgiri,Aurangzeb,1670
+38,Physics of the Impossible,Michio Kaku,2008
+39,Real Analysis,Edwin Hewitt,2013
+40,Shanawar,Ahmed Iqbal,1990
+41,Islamic Jurisprudence,Imran Ahsan Khan Nyazee,2000
+42,Relativity: The Special and General Theory,Albert Einstein,1916
+43,Complex Analysis,Lars Ahlfors,1979
+44,Man Chalay Ka Sauda,Ashfaq Ahmed,1990
+45,Principles of Islamic Jurisprudence,Muhammad Hashim Kamali,1991
+46,Statistical Mechanics,R. K. Pathria,2011
+47,Introduction to Algorithms,Thomas H. Cormen,2009
+48,Zaviya,Ashfaq Ahmed,1996
+49,Islam: A Short History,Karen Armstrong,2000
+50,Classical Dynamics of Particles and Systems,Stephen T. Thornton,2012
+51,Partial Differential Equations,Walter A. Strauss,2007
+52,Udaas Naslain,Abdullah Hussain,1963
+53,In the Footsteps of the Prophet,Tariq Ramadan,2007
+54,Quantum Mechanics,Eugen Merzbacher,1998
+55,The Art of Computer Programming,Donald E. Knuth,2011
+56,Aangan,Khadeeja Mastoor,1962
+57,No God but God,Reza Aslan,2005
+58,General Relativity,Robert M. Wald,1984
+59,Principles of Mathematical Analysis,Walter Rudin,1976
+60,Mirat-ul-Uroos,Deputy Nazir Ahmed,1869
+61,The Quran and Modern Science,Maurice Bucaille,1976
+62,Introduction to Solid State Physics,Charles Kittel,2004
+63,Graph Theory with Applications,Bondy and Murty,2008
+64,Amar Bail,Umera Ahmed,2000
+65,Maqasid al-Shariah,Muhammad Hashim Kamali,2008
+66,Fundamentals of Statistical and Thermal Physics,Frederick Reif,2009
+67,Applied Linear Algebra,Peter J. Olver,2010
+68,Bachpan Ka December,Hashim Nadeem,2001
+69,The Road to Mecca,Muhammad Asad,1954
+70,Principles of Optics,Max Born,1999
+71,Fiqh us-Sunnah,Sayyid Sabiq,1969
+72,Mechanics of Materials,James M. Gere,2012
+73,Introduction to Topology,Bert Mendelson,1990
+74,Aangan,Khadeeja Mastoor,1962
+75,Fiqh al-Islam wa Adillatuh,Wahbah Al-Zuhayli,1984
+76,Electromagnetic Waves and Radiating Systems,Edward C. Jordan,1995
+77,Mathematical Statistics with Applications,William Mendenhall,2013
+78,La-Hasil,Umera Ahmed,2001
+79,The Fundamentals of Tawheed,Abu Ameenah Bilal Philips,1990
+80,Fluid Mechanics,Frank M. White,2016
+81,Measure Theory and Probability,K.R. Parthasarathy,2005
+82,Abdullah,Hashim Nadeem,2007
